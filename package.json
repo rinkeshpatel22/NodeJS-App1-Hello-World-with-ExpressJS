@@ -1,0 +1,27 @@
+{
+  "name": "nodejs-app1-hello-world-with-expressjs",
+  "version": "1.0.0",
+  "description": "Hello World application in NodeJS usinf ExpressJS",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rinkeshpatel22/NodeJS-App1-Hello-World-with-ExpressJS.git"
+  },
+  "keywords": [
+    "nodejs-hello-world",
+    "nodejs",
+    "expressjs"
+  ],
+  "author": "rinkeshpatel22",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rinkeshpatel22/NodeJS-App1-Hello-World-with-ExpressJS/issues"
+  },
+  "homepage": "https://github.com/rinkeshpatel22/NodeJS-App1-Hello-World-with-ExpressJS#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
